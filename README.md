@@ -2,4 +2,4 @@
 
 A collection of reusable Markdown templates for various purposes
 
-## .NET WPF Desktop App(https://github.com/dmsm-ven/md-list/blob/main/wpf-new-app.md)
+## .NET WPF Desktop App [↗️](https://github.com/dmsm-ven/md-list/blob/main/wpf-new-app.md)
