@@ -8,6 +8,8 @@
 - WPF-UI — использовать компоненты и иконки библиотеки, если они подходят для задачи.
 - Использовать формат Solution `.slnx`.
 - Использовать `Directory.Build.props` и `Directory.Packages.props` (Central Package Management).
+- Использовать короткую форму namespace (File-Scoped Namespaces)
+- При обращении к статическому классу File или Directory проверять что бы был добавлен namespace System.IO
 
 ## 📁 Структура проекта
 - `Models/` — бизнес-модели и сущности данных.
